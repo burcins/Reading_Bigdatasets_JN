@@ -9,8 +9,10 @@ In the following link there are 4 different datasets published at total.
   3. California's Points of Interest With Original Category Name (Category Name, Longitude, Latitude)
   4. California's Points of Interest (Longitude, Latitude, Category ID)
   5. Merge Points of Interest with Road Network--Map Format For the 5th dataset, map format in detail is:
+  
       For each edge:
       Start Node ID, End Node ID, Number of Points on This Edge, Edge Length. 
+      
           For each point on this edge: 
           Category ID, Distance of This Point to the Start Node of This Edge  
 
